@@ -1,0 +1,23 @@
+{
+    "attributes": {
+        "clazz": "xxx.Panel"
+    },
+    "layouter": {
+        "clazz": "xxx.Layouter"
+    },
+    "layoutData": {},
+    "components": [
+        {
+            "attributes": {
+                "clazz": "xxx.Label",
+                "name": "Name:"
+            }
+        },
+        {
+            "attributes": {
+                "clazz": "xxx.Input",
+                "name": "{{user.name}}"
+            }
+        }
+    ]
+}

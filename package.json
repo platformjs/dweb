@@ -1,0 +1,6 @@
+{
+  "name": "dhweb",
+  "devDependencies": {
+    "lerna": "^3.14.1"
+  }
+}

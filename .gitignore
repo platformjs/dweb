@@ -1,0 +1,36 @@
+*-debug.log
+**/node_modules
+**/dist
+.tmp*
+*.npm-*
+*~
+\#*\#
+*.sublime*
+*.log
+*.pyxbld
+.DS_Store
+yarn-error.log
+coverage-report
+
+# JetBrains IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code
+.vscode
+
+# Eclipse
+*.settings
+*.classpath
+/.project
+
+# VIM
+**/*.swp
+
+#unit
+junit.xml
+package-lock.json
+lerna-debug.log
+yarn.lock
